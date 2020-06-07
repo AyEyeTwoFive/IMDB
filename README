@@ -1,0 +1,2 @@
+Uses LSTM model defined in Pytorch to precict movie reviews as positive or negative.
+Achieves 84% accuracy on held out test data after only 1 epock of training
